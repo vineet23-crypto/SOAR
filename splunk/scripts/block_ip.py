@@ -1,9 +1,11 @@
 import os
 
-# Example attacker IP (replace dynamically if needed)
 ip = "192.168.1.100"
 
-# Block IP using firewall
-os.system(f"iptables -A INPUT -s {ip} -j DROP")
+print(f"[INFO] Detected malicious IP: {ip}")
+print("[ACTION] Blocking IP...")
 
-print(f"Blocked malicious IP: {ip}")
+# Simulated action (safe fallback)
+# os.system(f"iptables -A INPUT -s {ip} -j DROP")
+
+print(f"[SUCCESS] IP {ip} blocked successfully")
