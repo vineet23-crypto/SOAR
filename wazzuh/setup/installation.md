@@ -7,9 +7,9 @@
 
 ## Steps:
 1. Installed Wazzuh Manager on Ubuntu VM
-2. Configured monitoring for system logs
+2. Configured monitoring for system logs of windows
 3. Verified Wazzuh service is running
-4. Checked alerts in alerts.log file
+4. Checked live alerts in alerts.log file
 
 ## Result:
 Wazzuh successfully installed and monitoring system activity
