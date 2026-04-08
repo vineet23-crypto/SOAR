@@ -9,7 +9,7 @@ Simulate brute force login attempts
 3. Generated multiple failed login attempts
 
 ## Observation:
-- Wazzuh detected suspicious login activity
+- Wazzuh detected suspicious login activity in logs
 - Alerts were generated in real-time
 
 ## Conclusion:
