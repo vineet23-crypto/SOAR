@@ -1,12 +1,12 @@
-# Wazuh - AI SOC Implementation
+# Wazzuh - AI SOC Implementation
 
 ## Overview
-This module demonstrates Security Operations Center (SOC) functionality using Wazuh.
+This module demonstrates Security Operations Center (SOC) functionality using Wazzuh.
 
 ---
 
 ## Setup
-- Wazuh Manager installed on Ubuntu VM
+- Wazzuh Manager installed on Ubuntu VM
 - Kali Linux used for attack simulation
 - Windows system used as target
 
@@ -19,7 +19,7 @@ This module demonstrates Security Operations Center (SOC) functionality using Wa
 ---
 
 ## Detection
-- Wazuh detected multiple failed login attempts
+- Wazzuh detected multiple failed login attempts
 - Alerts generated in real-time in alerts.log
 
 ---
